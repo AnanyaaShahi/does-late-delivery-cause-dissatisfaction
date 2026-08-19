@@ -38,8 +38,8 @@ This structure is meant to speak to data analyst, AI data analyst, and data scie
 **Dashboards.** Two Tableau dashboards translate these findings into business-facing visuals. Building them surfaced two more small-sample-size artifacts (a product category and a state each showing misleadingly extreme late rates based on very few orders), caught and corrected with the same statistical discipline applied throughout the analytical work.
 
 -
-![Customer Segments Dashboard](./images/dashboard1_segments.png)
-![Delivery Risk & Causal Impact Dashboard](./images/dashboard2_delivery_risk.png)
+![Customer Segments Dashboard](dashboard1_segments.png)
+![Delivery Risk & Causal Impact Dashboard](dashboard2_delivery_risk.png)
 
 --
 
