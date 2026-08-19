@@ -5,7 +5,11 @@
 
 An end-to-end analytics project on the [Olist Brazilian E-Commerce dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) (Kaggle) — ~99,000 orders across 9 relational tables — that starts with an unsupervised clustering mystery, builds a predictive model to investigate it, and resolves it with a rigorous causal inference analysis.
 
-**Live dashboard:** [Tableau Public link — add once published]
+**Live dashboard:** 
+
+https://public.tableau.com/app/profile/ananyaa.shahi/viz/DoesLateDeliveryReallyHurtSatisfactionACausalAnalysisofOlistE-Commerce/CustomerSegmentationUncoveringtheDissatisfiedSegment
+
+https://public.tableau.com/app/profile/ananyaa.shahi/viz/DoesLateDeliveryReallyHurtSatisfactionACausalAnalysisofOlistE-CommerceContd_/DeliveryRiskCausalImpact
 
 ---
 
